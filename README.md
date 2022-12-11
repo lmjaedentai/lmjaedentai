@@ -15,5 +15,5 @@
 </p>
 
 
-![trophy](https://github-readme-stats.vercel.app/api?username=lmjaedentai&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+![trophy](https://github-readme-stats.vercel.app/api?username=lmjaedentai&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true)
 ![trophy](https://github-readme-streak-stats.herokuapp.com/?user=lmjaedentai&theme=tokyonight&hide_border=true)
